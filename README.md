@@ -10,5 +10,7 @@ contato exclusivamente pela 4ComM.
 
 Gerado a partir do repositório interno `4comm-player-profiles` (construtor, fotos e mapa de competições ficam lá e no Drive da 4ComM).
 
+Vídeo de highlights: `videos/destaques-gustavo-defante-2026.mp4` (H.264 720p, gerado do original do Dropbox), tocado dentro da própria página por uma janela com player.
+
 Versão única: atualização substitui o `index.html` no mesmo lugar. Nunca criar
 repositório novo para o mesmo atleta.
